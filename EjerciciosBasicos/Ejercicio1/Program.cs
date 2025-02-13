@@ -5,7 +5,14 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("hola mundo");
+            Estudiante objEstudiante = new ("Andres", "Lopez")
+            {
+                Note1 = 8.0,
+                Note2 = 7.5,
+                Note3 = 5.5
+            };
+            System.Console.WriteLine(objEstudiante.Name);
+            objEstudiante.MostrarEstado();
         }
     }
 }
