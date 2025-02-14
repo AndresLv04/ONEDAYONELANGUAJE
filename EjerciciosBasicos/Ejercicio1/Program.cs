@@ -1,4 +1,8 @@
-﻿namespace Ejercicio1
+﻿using System;
+{
+    
+}
+namespace Ejercicio1
 {
     //cd EjerciciosBasicos/Ejercicio1 luego el dotnet
     class Program
@@ -11,7 +15,7 @@
                 Note2 = 7.5,
                 Note3 = 5.5
             };
-            System.Console.WriteLine(objEstudiante.Name);
+            Console.WriteLine(objEstudiante.Name);
             objEstudiante.MostrarEstado();
         }
     }

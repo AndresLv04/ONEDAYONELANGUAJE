@@ -1,0 +1,15 @@
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/bin/Debug/net8.0/Ejercicio2
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/bin/Debug/net8.0/Ejercicio2.deps.json
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/bin/Debug/net8.0/Ejercicio2.runtimeconfig.json
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/bin/Debug/net8.0/Ejercicio2.dll
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/bin/Debug/net8.0/Ejercicio2.pdb
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfoInputs.cache
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfo.cs
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.sourcelink.json
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.dll
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/refint/Ejercicio2.dll
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.pdb
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/Ejercicio2.genruntimeconfig.cache
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Ejercicio2/obj/Debug/net8.0/ref/Ejercicio2.dll

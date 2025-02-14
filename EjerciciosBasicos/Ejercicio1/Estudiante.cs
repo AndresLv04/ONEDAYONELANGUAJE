@@ -45,7 +45,7 @@ namespace Ejercicio1
         //Constructor
         public Estudiante(string name, string lastName)
         {
-            Name = name;
+            this._name = name;
             LastName = lastName;
         }
 
