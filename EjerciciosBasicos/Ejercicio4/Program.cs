@@ -5,7 +5,8 @@ namespace Ejercicio4
     {
      static void Main(string[] args)
      {
-        int year = 2025;
+        const int year = 2025;
+        
 
         Console.WriteLine("Escribe tu edad: ");
         string input = Console.ReadLine();
