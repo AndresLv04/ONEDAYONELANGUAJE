@@ -3,7 +3,7 @@ namespace Ejercicio1
     class Estudiante
     {
         private string _name;
-
+       
         public string Name
         {
             get { return _name; }
