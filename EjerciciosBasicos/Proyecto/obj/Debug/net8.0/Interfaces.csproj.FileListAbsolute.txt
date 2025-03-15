@@ -1,0 +1,5 @@
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/Debug/net8.0/Interfaces.sourcelink.json

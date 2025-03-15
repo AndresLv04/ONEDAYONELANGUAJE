@@ -1,8 +1,8 @@
 using Proyecto.Interfaces;
 
-namespace Proyecto.Clases;
+namespace Proyecto.Clases
 {
-    public class Operario : ITrabajor
+    public class Operario : ITrabajador
     {
         public const int VALOR_HORA = 9000;
         public double Hours {get ; set;}

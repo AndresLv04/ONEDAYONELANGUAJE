@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Interfaces/Interfaces.csproj": {}
+    "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/Interfaces.csproj": {}
   },
   "projects": {
-    "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Interfaces/Interfaces.csproj": {
+    "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Interfaces/Interfaces.csproj",
+        "projectUniqueName": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Interfaces/Interfaces.csproj",
+        "projectPath": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/Interfaces.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Interfaces/obj/",
+        "outputPath": "/workspaces/ONEDAYONELANGUAJE/EjerciciosBasicos/Proyecto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
