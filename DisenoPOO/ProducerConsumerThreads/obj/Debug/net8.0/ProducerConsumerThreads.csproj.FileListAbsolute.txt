@@ -1,0 +1,5 @@
+/workspaces/ONEDAYONELANGUAJE/DisenoPOO/ProducerConsumerThreads/obj/Debug/net8.0/ProducerConsumerThreads.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ONEDAYONELANGUAJE/DisenoPOO/ProducerConsumerThreads/obj/Debug/net8.0/ProducerConsumerThreads.AssemblyInfoInputs.cache
+/workspaces/ONEDAYONELANGUAJE/DisenoPOO/ProducerConsumerThreads/obj/Debug/net8.0/ProducerConsumerThreads.AssemblyInfo.cs
+/workspaces/ONEDAYONELANGUAJE/DisenoPOO/ProducerConsumerThreads/obj/Debug/net8.0/ProducerConsumerThreads.csproj.CoreCompileInputs.cache
+/workspaces/ONEDAYONELANGUAJE/DisenoPOO/ProducerConsumerThreads/obj/Debug/net8.0/ProducerConsumerThreads.sourcelink.json
