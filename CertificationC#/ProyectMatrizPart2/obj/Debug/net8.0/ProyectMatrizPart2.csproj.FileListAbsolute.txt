@@ -1,0 +1,15 @@
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.AssemblyInfoInputs.cache
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.AssemblyInfo.cs
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.csproj.CoreCompileInputs.cache
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.sourcelink.json
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/bin/Debug/net8.0/ProyectMatrizPart2
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/bin/Debug/net8.0/ProyectMatrizPart2.deps.json
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/bin/Debug/net8.0/ProyectMatrizPart2.runtimeconfig.json
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/bin/Debug/net8.0/ProyectMatrizPart2.dll
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/bin/Debug/net8.0/ProyectMatrizPart2.pdb
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.dll
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/refint/ProyectMatrizPart2.dll
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.pdb
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ProyectMatrizPart2.genruntimeconfig.cache
+/workspaces/ONEDAYONELANGUAJE/CertificationC#/ProyectMatrizPart2/obj/Debug/net8.0/ref/ProyectMatrizPart2.dll

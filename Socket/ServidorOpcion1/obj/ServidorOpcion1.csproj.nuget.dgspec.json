@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1/ServidorOpcion1.csproj": {}
+    "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1.csproj": {}
   },
   "projects": {
-    "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1/ServidorOpcion1.csproj": {
+    "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1/ServidorOpcion1.csproj",
+        "projectUniqueName": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1.csproj",
         "projectName": "ServidorOpcion1",
-        "projectPath": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1/ServidorOpcion1.csproj",
+        "projectPath": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/ServidorOpcion1/obj/",
+        "outputPath": "/workspaces/ONEDAYONELANGUAJE/Socket/ServidorOpcion1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
