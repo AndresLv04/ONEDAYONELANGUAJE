@@ -34,7 +34,7 @@ namespace ServidorOpcion1
         }
         public void Start()
         {
-            servidor.Start(); //Inicia el servidor
+            servidor.Start()
             Console.WriteLine("Servidor iniciado en el puerto {0}", puerto);
             while (true) //Ciclo infinito para atender clientes
             {
