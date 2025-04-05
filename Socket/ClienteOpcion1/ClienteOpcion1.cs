@@ -9,20 +9,20 @@ namespace ClienteOpcion1
 {
     public class Cliente
     {
-        private string ipServidor;
-        private int puertoServidor;
-        private TcpClient cliente;
+        private string _ipServidor;
+        private int _puertoServidor;
+        private TcpClient _cliente;
 
         public Cliente(string ipServidor, int puertoServidor)
         {
-            this.ipServidor = ipServidor;
-            this.puertoServidor = puertoServidor;
-            cliente = new TcpClient(); // Se crea el cliente
+            _ipServidor = ipServidor;
+            _puertoServidor = puertoServidor;
+            _cliente = new TcpClient(); // Se crea el cliente
         }
 
         public void Conectar()
         {
-            cliente.Connect(ipServidor, puertoServidor); // Se conecta al servidor
+            _cliente.Connect(_ipServidor, _puertoServidor); // Se conecta al servidor
             NetworkStream ns = cliente.GetStream(); // Se obtiene el stream de red
             string? mensaje = Console.ReadLine(); // Se lee el mensaje a enviar
             if (mensaje != null)

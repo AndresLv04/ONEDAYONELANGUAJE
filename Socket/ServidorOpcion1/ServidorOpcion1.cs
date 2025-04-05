@@ -10,13 +10,13 @@ namespace ServidorOpcion1
 {
     public class Servidor
     {
-        private TcpListener servidor;
-        private int puerto;
+        private TcpListener _servidor;
+        private int _puerto;
 
         public Servidor(int puerto)
         {
-            this.puerto = puerto;
-            servidor = new TcpListener(IPAddress.Any, puerto); //Permite escuchar las interfaces de red
+            puerto = puerto;
+            _servidor = new TcpListener(IPAddress.Any, puerto); //Permite escuchar las interfaces de red
         }
 
         private void AtenderCliente(TcpClient cliente)
@@ -34,11 +34,11 @@ namespace ServidorOpcion1
         }
         public void Start()
         {
-            servidor.Start();
-            Console.WriteLine("Servidor iniciado en el puerto {0}", puerto);
+            _servidor.Start();
+            Console.WriteLine("Servidor iniciado en el puerto {0}", _puerto);
             while (true) //Ciclo infinito para atender clientes
             {
-                TcpClient cliente = servidor.AcceptTcpClient(); //Espera a que un cliente se conecte
+                TcpClient cliente = _servidor.AcceptTcpClient(); //Espera a que un cliente se conecte
                 Console.WriteLine("Cliente conectado");
                 AtenderCliente(cliente); //Atiende al cliente
             }
@@ -46,7 +46,7 @@ namespace ServidorOpcion1
 
         public void Stop()
         {
-            servidor.Stop(); //Detiene el servidor
+            _servidor.Stop(); //Detiene el servidor
             Console.WriteLine("Servidor detenido");
         }
 
